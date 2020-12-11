@@ -1,6 +1,6 @@
-# Tmp Mail
+# Coinskite Temporary Mail
 
-### This Temporary Mail App Is Made Using React Native 
+### This Temporary Mail App Is Made Using React Native By CoinsKite Devoloper's
 
 ### Installing
 
@@ -15,10 +15,6 @@
 * React Native
 * 1SecMail
 
-## Check Out The Demo Video
-
-[Youtube Channel - Belgin Android](https://www.youtube.com/watch?v=nqAJO_3wvro)
-
 ## Snack Expo
 
 [ Try This On Snack ](https://snack.expo.io/@belgin/budget-tracker)
@@ -30,11 +26,11 @@
 
 ## Authors
 
-* **Belgin Android** - *All Works* - [Belgin Android](https://github.com/Belgin-Android)
+* **CoinsKite Devoloper's** - *All Works* - [CoinsKite](https://www.linkedin.com/company/coinskite/)
 
 ## Problems ?
 
-* Contact Me At [Instagram - @reactnative.modules](https://www.instagram.com/reactnative.modules/)
+* Contact Me At [Instagram - CoinsKite](https://www.instagram.com/coinskite/)
 
 ## Acknowledgments
 
